@@ -1,4 +1,4 @@
-# This repor contains miscellaneous routine scripts
+# This repo contains miscellaneous routine scripts
 Sets of routine scripts used for data analysis
 
 ## gc_local_parameters.R 
